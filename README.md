@@ -41,3 +41,6 @@ Solutions to the InterviewBit problems in Java
 |5| [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/)      | [Java](./Programming/Array/MaxAbsDiff.java)  | _O(n)_         | _O(1)_          | Medium         | Carefully look the given exp and how it can be written down|
 |6| [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)      | [Java](./Programming/Array/RepeatMissing.java)  | _O(n)_         | _O(1)_          | Medium         | Look for overflows and equations|
 |7| [Flip](https://www.interviewbit.com/problems/flip/)      | [Java](./Programming/Array/Flip.java)  | _O(n)_         | _O(1)_          | Medium         | |
+|7| [Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/)      | [Java](./Programming/Array/MaxNonNegativeSub.java)  | _O(n)_         | _O(1)_          | Easy         | Check for overflows and tie constraints properly|
+|8| [Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/)      | [Java](./Programming/Array/Spiral2.java)  | _O(n*n)_         | _O(n*n)_          | Easy         | |
+|9| [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/)      | [Java](./Programming/Array/Spiral2.java)  | _O(n*n)_         | _O(n*n)_          | Easy         | |

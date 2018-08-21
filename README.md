@@ -46,4 +46,3 @@ Solutions to the InterviewBit problems in Java
 |9| [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/)      | [Java](./Programming/Array/Pascal.java)  | _O(n*n)_         | _O(n*n)_          | Easy         | |
 |10| [Kth Row of Pascal's Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/)      | [Java](./Programming/Array/KthPascal.java)  | _O(n*n)_         | _O(n)_          | Easy         | Think in terms of if previous calculated list is needed or not |
 |11| [Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/)      | [Java](./Programming/Array/AntiDiagonals.java)  | _O(n)_         | _O(1)_          | Easy         |  |
-

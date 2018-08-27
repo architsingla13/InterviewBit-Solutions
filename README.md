@@ -47,3 +47,7 @@ Solutions to the InterviewBit problems in Java
 |10| [Kth Row of Pascal's Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/)      | [Java](./Programming/Array/KthPascal.java)  | _O(n*n)_         | _O(n)_          | Easy         | Think in terms of if previous calculated list is needed or not |
 |11| [Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/)      | [Java](./Programming/Array/AntiDiagonals.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 |12| [Noble Integer](https://www.interviewbit.com/problems/noble-integer/)      | [Java](./Programming/Array/NobleInteger.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
+|13| [Triplets with Sum between given range](https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/)      | [Java](./Programming/Array/TripletsSum.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked |
+|14| [Largest Number](https://www.interviewbit.com/problems/largest-number/)      | [Java](./Programming/Array/LargestNumber.java)  | _O(n)_         | _O(n)_          | Medium         | Comparator |
+|15| [Wave Array](https://www.interviewbit.com/problems/wave-array/)      | [Java](./Programming/Array/WaveArray.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
+|16| [Hotel Bookings Possible](https://www.interviewbit.com/problems/hotel-bookings-possible/)      | [Java](./Programming/Array/HotelBookings.java)  | _O(nlogn)_         | _O(1)_          | Medium         |  Bookmarked|

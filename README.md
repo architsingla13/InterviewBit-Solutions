@@ -51,3 +51,6 @@ Solutions to the InterviewBit problems in Java
 |14| [Largest Number](https://www.interviewbit.com/problems/largest-number/)      | [Java](./Programming/Array/LargestNumber.java)  | _O(n)_         | _O(n)_          | Medium         | Comparator |
 |15| [Wave Array](https://www.interviewbit.com/problems/wave-array/)      | [Java](./Programming/Array/WaveArray.java)  | _O(nlogn)_         | _O(1)_          | Easy         |  |
 |16| [Hotel Bookings Possible](https://www.interviewbit.com/problems/hotel-bookings-possible/)      | [Java](./Programming/Array/HotelBookings.java)  | _O(nlogn)_         | _O(1)_          | Medium         |  Bookmarked|
+|17| [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)      | [Java](./Programming/Array/FindDuplicate.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|18| [Max Distance](https://www.interviewbit.com/problems/max-distance/)      | [Java](./Programming/Array/MaxDistance.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked|
+|19| [Min Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/)      | [Java](./Programming/Array/MinUnsortedArray.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked|

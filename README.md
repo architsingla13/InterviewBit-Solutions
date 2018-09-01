@@ -54,3 +54,6 @@ Solutions to the InterviewBit problems in Java
 |17| [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)      | [Java](./Programming/Array/FindDuplicate.java)  | _O(n)_         | _O(1)_          | Easy         |  |
 |18| [Max Distance](https://www.interviewbit.com/problems/max-distance/)      | [Java](./Programming/Array/MaxDistance.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked|
 |19| [Min Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/)      | [Java](./Programming/Array/MinUnsortedArray.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked|
+|20| [Maximum Consecutive Gap](https://www.interviewbit.com/problems/maximum-consecutive-gap/)      | [Java](./Programming/Array/MaxConsGap.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked, PigeonHole Sorting using bucket method|
+|21| [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)      | [Java](./Programming/Array/RotateMatrix.java)  | _O(n*n)_         | _O(1)_          | Medium         |  Good Question|
+|22| [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)      | [Java](./Programming/Array/SpecialProduct.java)  | _O(n)_         | _O(n)_          | Medium         |  Good Question|

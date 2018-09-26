@@ -64,3 +64,12 @@ Solutions to the InterviewBit problems in Java
 |27| [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)      | [Java](./Programming/Array/MergeOverlappingIntervals.java)  | _O(nlogn)_         | _O(1)_          | Medium         |  Good Question, Bookmarked|
 |28| [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)      | [Java](./Programming/Array/MergeIntervals.java)  | _O(n)_         | _O(1)_          | Medium         |  Good Question, Good Edge Cases|
 |29| [N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/)      | [Java](./Programming/Array/Nby3Repeat.java)  | _O(n)_         | _O(1)_          | Medium         |  Good Question, Moore's Voting Algo|
+
+
+## Math
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [All Factors](https://www.interviewbit.com/problems/all-factors/)      | [Java](./Programming/Math/AllFactors.java)  | _O(sqrt(n))_         | _O(1)_          | Easy         | Keep notice of edge cases - like i^2 = A |
+|2| [Binary Representation](https://www.interviewbit.com/problems/binary-representation/)      | [Java](./Programming/Math/BinaryRep.java)  | _O(log(n))_         | _O(1)_          | Easy         |  |

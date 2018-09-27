@@ -73,3 +73,7 @@ Solutions to the InterviewBit problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [All Factors](https://www.interviewbit.com/problems/all-factors/)      | [Java](./Programming/Math/AllFactors.java)  | _O(sqrt(n))_         | _O(1)_          | Easy         | Keep notice of edge cases - like i^2 = A |
 |2| [Binary Representation](https://www.interviewbit.com/problems/binary-representation/)      | [Java](./Programming/Math/BinaryRep.java)  | _O(log(n))_         | _O(1)_          | Easy         |  |
+|3| [Prime](https://www.interviewbit.com/problems/prime-numbers/)      | [Java](./Programming/Math/Prime.java)  | _O(sqrt(N)loglog(n))_         | _O(1)_          | Easy         | Sieve of Eratosthenes |
+|4| [Verify Prime](https://www.interviewbit.com/problems/verify-prime/)      | [Java](./Programming/Math/VerifyPrime.java)  | _O(sqrt(N))_         | _O(1)_          | Easy         |  |
+|5| [Prime Sum](https://www.interviewbit.com/problems/prime-sum/)      | [Java](./Programming/Math/PrimeSum.java)  | _O(sqrt(N)loglog(n) + N)_         | _O(1)_          | Easy         |  |
+|6| [Sum of pairwise Hamming Distance](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/)      | [Java](./Programming/Math/PairWiseHamming.java)  | _O(N)_         | _O(1)_          | Medium         | Good idea on how to use mod for large test cases, and good solution |

@@ -77,3 +77,7 @@ Solutions to the InterviewBit problems in Java
 |4| [Verify Prime](https://www.interviewbit.com/problems/verify-prime/)      | [Java](./Programming/Math/VerifyPrime.java)  | _O(sqrt(N))_         | _O(1)_          | Easy         |  |
 |5| [Prime Sum](https://www.interviewbit.com/problems/prime-sum/)      | [Java](./Programming/Math/PrimeSum.java)  | _O(sqrt(N)loglog(n) + N)_         | _O(1)_          | Easy         |  |
 |6| [Sum of pairwise Hamming Distance](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/)      | [Java](./Programming/Math/PairWiseHamming.java)  | _O(N)_         | _O(1)_          | Medium         | Good idea on how to use mod for large test cases, and good solution |
+|7| [FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/)      | [Java](./Programming/Math/FizzBuzz.java)  | _O(N)_         | _O(1)_          | Easy         |  |
+|8| [Power Of Two Integers](https://www.interviewbit.com/problems/power-of-two-integers/)      | [Java](./Programming/Math/IsPower.java)  | _O(sqrt(N)*log(N))_         | _O(1)_          | Easy         | Think easy solution |
+|9| [Excel Column Number](https://www.interviewbit.com/problems/excel-column-number/)      | [Java](./Programming/Math/ExcelColumn.java)  | _O(N)_         | _O(1)_          | Easy         | |
+|10| [Excel Column Title](https://www.interviewbit.com/problems/excel-column-title/)      | [Java](./Programming/Math/ExcelColumnTitle.java)  | _O(logn)_         | _O(1)_          | Easy         | Good Question|

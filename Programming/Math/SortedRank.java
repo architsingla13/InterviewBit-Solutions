@@ -17,7 +17,7 @@ public class SortedRank {
 
     int smallerRight(String A, int low, int high){
 
-        Character c = A.charAt(low);
+        char c = A.charAt(low);
         int count = 0;
         for(int i=low+1;i<=high;i++){
             if(c > A.charAt(i)){
@@ -31,7 +31,6 @@ public class SortedRank {
     public int findRank(String A) {
 
         int rank = 1;
-        int mul = fact(A.length());
 
         int countRight = 0;
 

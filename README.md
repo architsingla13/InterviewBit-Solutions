@@ -91,3 +91,14 @@ Solutions to the InterviewBit problems in Java
 |18| [ReArrange Array](https://www.interviewbit.com/problems/rearrange-array/)      | [Java](./Programming/Math/RearrangeArray.java)  | _O(A)_         | _O(1)_          | Medium         | Bookmarked, Encoding 2 values in one |
 |19| [Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)      | [Java](./Programming/Math/GridUniquePaths.java)  | _O(min(row,col))_         | _O(1)_          | Easy         | Bookmarked, DP or Combinatorial |
 |20| [Numbers of length N and value less than K](https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/)      | [Java](./Programming/Math/NumberLessThanK.java)  | _O(B)_         | _O(1)_          | Medium         | Bookmarked |
+
+
+## BinarySearch
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [SQRT](https://www.interviewbit.com/problems/square-root-of-integer/)      | [Java](./Programming/BinarySearch/SQRT.java)  | _O(log(n))_         | _O(1)_          | Easy         | Keep check for out of range in case of Multiplication else use division  |
+|2| [Count Element Occurence](https://www.interviewbit.com/problems/count-element-occurence/)      | [Java](./Programming/BinarySearch/CountElements.java)  | _O(log(n))_         | _O(1)_          | Easy         |   |
+|3| [Rotated Array](https://www.interviewbit.com/problems/rotated-array/)      | [Java](./Programming/BinarySearch/RotateArray.java)  | _O(log(n))_         | _O(1)_          | Easy         |  Bookmarked |
+|4| [Matrix Median](https://www.interviewbit.com/problems/matrix-median/)      | [Java](./Programming/BinarySearch/MatrixMedian.java)  | _O(log(2^32)*r*log(c))_ = O(32 * r * log(c))         | _O(1)_          | Medium         |  Bookmarked |

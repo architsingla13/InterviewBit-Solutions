@@ -110,3 +110,12 @@ Solutions to the InterviewBit problems in Java
 |10| [Painter's Partition Problem](https://www.interviewbit.com/problems/painters-partition-problem/)      | [Java](./Programming/BinarySearch/PainterPartition.java)  | _O(Nlog(sum(array)))_          | _O(1)_          | Medium         | Bookmarked, Example to use BS in monotonic functions   |
 |11| [Allocate Books](https://www.interviewbit.com/problems/allocate-books/)      | [Java](./Programming/BinarySearch/AllocateBooks.java)  | _O(Nlog(sum(array)))_          | _O(1)_          | Medium         | Bookmarked, Example to use BS in monotonic functions   |
 |12| [Median of Array](https://www.interviewbit.com/problems/median-of-array/)      | [Java](./Programming/BinarySearch/Median2Sorted.java)  | _O(log(m+n))_          | _O(1)_          | Hard         | Bookmarked   |
+
+
+## String
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)      | [Java](./Programming/String/Palindrome.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|2| [Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)      | [Java](./Programming/String/LongestCommonPrefix.java)  | _O(n*min(String Length))_         | _O(1)_          | Easy         |   |

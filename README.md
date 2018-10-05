@@ -119,3 +119,6 @@ Solutions to the InterviewBit problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)      | [Java](./Programming/String/Palindrome.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |2| [Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)      | [Java](./Programming/String/LongestCommonPrefix.java)  | _O(n*min(String Length))_         | _O(1)_          | Easy         |   |
+|3| [Count And Say](https://www.interviewbit.com/problems/count-and-say/)      | [Java](./Programming/String/CountAndSay.java)  | _O(n*max(String Length))_         | _O(1)_          | Easy         |   |
+|4| [Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)      | [Java](./Programming/String/MinCharsToPalindrome.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|5| [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)      | [Java](./Programming/String/LongestPalindromeSubString.java)  | _O(n*n)_         | _O(1)_          | Medium         |  Bookmarked, 1 length is always palindrome |

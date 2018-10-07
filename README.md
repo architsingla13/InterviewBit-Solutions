@@ -129,3 +129,5 @@ Solutions to the InterviewBit problems in Java
 |10| [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)      | [Java](./Programming/String/ReverseString.java)  | _O(n)_         | _O(n)_          | Easy         | Bookmarked, Ask if split function can be used|
 |11| [Valid Number](https://www.interviewbit.com/problems/valid-number/)      | [Java](./Programming/String/ValidNumber.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Lots of corner cases|
 |12| [Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)      | [Java](./Programming/String/ValidIp.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Placing 3 dots|
+|13| [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)      | [Java](./Programming/String/RomanToInt.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked|
+|14| [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)      | [Java](./Programming/String/IntToRoman.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Ask if you can have diff arrays to store value|

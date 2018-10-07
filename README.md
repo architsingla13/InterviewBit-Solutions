@@ -131,3 +131,5 @@ Solutions to the InterviewBit problems in Java
 |12| [Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)      | [Java](./Programming/String/ValidIp.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Placing 3 dots|
 |13| [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)      | [Java](./Programming/String/RomanToInt.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked|
 |14| [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)      | [Java](./Programming/String/IntToRoman.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Ask if you can have diff arrays to store value|
+|15| [Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)      | [Java](./Programming/String/AddBinary.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Shorter Solution|
+|16| [Power of 2](https://www.interviewbit.com/problems/power-of-2/)      | [Java](./Programming/String/PowerOf2.java)  | _O(logn)_         | _O(1)_          | Easy         | Bookmarked, Use of CompareTo function|

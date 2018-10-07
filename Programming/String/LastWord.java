@@ -9,7 +9,6 @@ public class LastWord {
 
     int jumpReverseSpaces(String A){
         int pos = A.length()-1;
-
         while(pos>=0 && A.charAt(pos) == ' '){
             pos--;
         }

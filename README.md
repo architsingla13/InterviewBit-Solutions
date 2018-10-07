@@ -126,3 +126,6 @@ Solutions to the InterviewBit problems in Java
 |7| [Compare Version Numbers](https://www.interviewbit.com/problems/compare-version-numbers/)      | [Java](./Programming/String/CompareVersions.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked|
 |8| [Atoi](https://www.interviewbit.com/problems/atoi/)      | [Java](./Programming/String/Atoi.java)  | _O(n)_         | _O(1)_          | Easy         |  Bookmarked|
 |9| [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)      | [Java](./Programming/String/LastWord.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|10| [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)      | [Java](./Programming/String/ReverseString.java)  | _O(n)_         | _O(n)_          | Easy         | Bookmarked, Ask if split function can be used|
+|11| [Valid Number](https://www.interviewbit.com/problems/valid-number/)      | [Java](./Programming/String/ValidNumber.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Lots of corner cases|
+|12| [Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)      | [Java](./Programming/String/ValidIp.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Placing 3 dots|

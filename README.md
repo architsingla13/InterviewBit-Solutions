@@ -133,3 +133,5 @@ Solutions to the InterviewBit problems in Java
 |14| [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)      | [Java](./Programming/String/IntToRoman.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Ask if you can have diff arrays to store value|
 |15| [Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)      | [Java](./Programming/String/AddBinary.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked, Shorter Solution|
 |16| [Power of 2](https://www.interviewbit.com/problems/power-of-2/)      | [Java](./Programming/String/PowerOf2.java)  | _O(logn)_         | _O(1)_          | Easy         | Bookmarked, Use of CompareTo function|
+|17| [Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)      | [Java](./Programming/String/MultiplyStrings.java)  | _O(n*m)_         | _O(1)_          | Easy         | Bookmarked|
+|18| [Justified Text](https://www.interviewbit.com/problems/justified-text/)      | [Java](./Programming/String/JustifiedText.java)  | _O(n*n)_         | _O(n)_          | HARD         | Bookmarked, Used Greedy Approach|

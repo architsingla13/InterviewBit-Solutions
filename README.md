@@ -137,4 +137,4 @@ Solutions to the InterviewBit problems in Java
 |18| [Justified Text](https://www.interviewbit.com/problems/justified-text/)      | [Java](./Programming/String/JustifiedText.java)  | _O(n*n)_         | _O(n)_          | HARD         | Bookmarked, Used Greedy Approach|
 |19| [ZigZag String](https://www.interviewbit.com/problems/zigzag-string/)      | [Java](./Programming/String/ZigZag.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked|
 |20| [Pretty Json](https://www.interviewbit.com/problems/pretty-json/)      | [Java](./Programming/String/PrettyJson.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked|
-|21| [Stringoholics](https://www.interviewbit.com/problems/stringoholics/)      | [Java](./Programming/String/Stringoholics.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked|
+|21| [Stringoholics](https://www.interviewbit.com/problems/stringoholics/)      | [Java](./Programming/String/Stringoholics.java)  | _O(n*m, n*maxNum)_         | _O(n+m)_ n is input array length, m is average size of each string          | HARD         | Bookmarked, Covers many concepts - KMP, LCM|

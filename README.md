@@ -146,4 +146,5 @@ Solutions to the InterviewBit problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Min XOR Value](https://www.interviewbit.com/problems/min-xor-value/)      | [Java](./Programming/BitManipulation/MinXor.java)  | _O(nlogn)_         | _O(1)_          | Easy         | Bookmarked  |
-|1| [Single Number](https://www.interviewbit.com/problems/single-number/)      | [Java](./Programming/BitManipulation/SingleNumber.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|2| [Single Number](https://www.interviewbit.com/problems/single-number/)      | [Java](./Programming/BitManipulation/SingleNumber.java)  | _O(n)_         | _O(1)_          | Easy         |  |
+|3| [Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)      | [Java](./Programming/BitManipulation/NumberOf1Bits.java)  | _O(1)_         | _O(1)_          | Easy         | Bookmarked, 2nd Solution with bits trick |

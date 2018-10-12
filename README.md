@@ -138,3 +138,12 @@ Solutions to the InterviewBit problems in Java
 |19| [ZigZag String](https://www.interviewbit.com/problems/zigzag-string/)      | [Java](./Programming/String/ZigZag.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked|
 |20| [Pretty Json](https://www.interviewbit.com/problems/pretty-json/)      | [Java](./Programming/String/PrettyJson.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked|
 |21| [Stringoholics](https://www.interviewbit.com/problems/stringoholics/)      | [Java](./Programming/String/Stringoholics.java)  | _O(n*m, n*maxNum)_         | _O(n+m)_ n is input array length, m is average size of each string          | HARD         | Bookmarked, Covers many concepts - KMP, LCM|
+
+
+## BitManipulation
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Min XOR Value](https://www.interviewbit.com/problems/min-xor-value/)      | [Java](./Programming/BitManipulation/MinXor.java)  | _O(nlogn)_         | _O(1)_          | Easy         | Bookmarked  |
+|1| [Single Number](https://www.interviewbit.com/problems/single-number/)      | [Java](./Programming/BitManipulation/SingleNumber.java)  | _O(n)_         | _O(1)_          | Easy         |  |

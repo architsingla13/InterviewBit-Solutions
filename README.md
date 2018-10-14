@@ -13,7 +13,7 @@ Solutions to the InterviewBit problems in Java
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
 * [Hash Table](https://github.com/architsingla13/InterviewBit-Solutions#hashtable)
 * [Math](https://github.com/architsingla13/InterviewBit-Solutions#math)
-* Two Pointers
+* [Two Pointers](https://github.com/architsingla13/InterviewBit-Solutions#twopointers)
 * Sort
 * Recursion
 * [Binary Search](https://github.com/architsingla13/InterviewBit-Solutions#binarysearch)
@@ -152,3 +152,12 @@ Solutions to the InterviewBit problems in Java
 |5| [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)      | [Java](./Programming/BitManipulation/SingleNumber2.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked, 3x+1 |
 |6| [Divide Integers](https://www.interviewbit.com/problems/divide-integers/)      | [Java](./Programming/BitManipulation/DivideIntegers.java)  | _O(log(dividend))_         | _O(1)_          | Medium         | Bookmarked, 1 approach is to subtract divisor, but takes O(dividend) time |
 |7| [Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)      | [Java](./Programming/BitManipulation/DifferentBitsSum.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked |
+
+
+## TwoPointers
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)      | [Java](./Programming/TwoPointers/MergeSortedLists2.java)  | _O(n+m)_         | _O(1)_          | Easy         |   |
+|2| [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)      | [Java](./Programming/TwoPointers/IntersectionSortedArrays.java)  | _O(n+m)_         | _O(1)_          | Easy         |   |

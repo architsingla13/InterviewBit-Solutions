@@ -166,3 +166,4 @@ Solutions to the InterviewBit problems in Java
 |5| [Remove Duplicates from Sorted Array 2](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)      | [Java](./Programming/TwoPointers/RemoveDuplicates2.java)  | _O(n)_         | _O(1)_          | Easy         | Bookmarked  |
 |6| [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)      | [Java](./Programming/TwoPointers/RemoveElement.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |6| [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)      | [Java](./Programming/TwoPointers/RemoveElement.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|7| [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)      | [Java](./Programming/TwoPointers/SortByColor.java)  | _O(n)_         | _O(1)_          | Easy         |   |

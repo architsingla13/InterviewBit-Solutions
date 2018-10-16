@@ -1,15 +1,15 @@
 package TwoPointers;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.List;
 
 /**
  * Author - archit.s
- * Date - 15/10/18
- * Time - 11:56 AM
+ * Date - 16/10/18
+ * Time - 12:44 PM
  */
-public class MinimiseAbsDiff {
-    public int solve(ArrayList<Integer> A, ArrayList<Integer> B, ArrayList<Integer> C) {
+public class Array3Pointers {
+
+    public int minimize(final List<Integer> A, final List<Integer> B, final List<Integer> C) {
 
         int i=0;
         int j=0;
@@ -39,9 +39,5 @@ public class MinimiseAbsDiff {
         }
 
         return min_diff;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new MinimiseAbsDiff().solve(new ArrayList<>(Arrays.asList(1,4,10)), new ArrayList<>(Arrays.asList(2,15,20)), new ArrayList<>(Arrays.asList(10,12))));
     }
 }

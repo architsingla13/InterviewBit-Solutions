@@ -174,3 +174,12 @@ Solutions to the InterviewBit problems in Java
 |12| [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)      | [Java](./Programming/TwoPointers/Array3Pointers.java)  | _O(maxArrayLength)_         | _O(1)_          | Medium         | Bookmarked, Abs diff can be minimized either decreasing max element or increasing min element   |
 |13| [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)      | [Java](./Programming/TwoPointers/CountingTriangles.java)  | _O(n^2)_         | _O(1)_          | Medium         | Bookmarked, (A+B) > C by sorting the array   |
 |14| [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)      | [Java](./Programming/TwoPointers/ContainerMostWater.java)  | _O(n)_         | _O(1)_          | Medium         | Bookmarked   |
+
+
+## LinkedList
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Intersection of Linked Lists](https://www.interviewbit.com/problems/intersection-of-linked-lists/)      | [Java](./Programming/LinkedLists/Intersection.java)  | _O(n+m)_         | _O(1)_          | Easy         |   |
+|2| [Reverse Linked List](https://www.interviewbit.com/problems/reverse-linked-list/)      | [Java](./Programming/LinkedLists/ReverseList.java)  | _O(n)_         | _O(1)_          | Easy         |   |

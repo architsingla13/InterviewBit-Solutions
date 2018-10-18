@@ -183,3 +183,8 @@ Solutions to the InterviewBit problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Intersection of Linked Lists](https://www.interviewbit.com/problems/intersection-of-linked-lists/)      | [Java](./Programming/LinkedLists/Intersection.java)  | _O(n+m)_         | _O(1)_          | Easy         |   |
 |2| [Reverse Linked List](https://www.interviewbit.com/problems/reverse-linked-list/)      | [Java](./Programming/LinkedLists/ReverseList.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|3| [Palindrome List](https://www.interviewbit.com/problems/palindrome-list/)      | [Java](./Programming/LinkedLists/Palindrome.java)  | _O(n)_         | _O(n)_          | Easy         |  Use Stack or reverse half linked list |
+|4| [Remove Duplicates from Sorted List](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/)      | [Java](./Programming/LinkedLists/RemoveDuplicates.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|5| [Remove Duplicates from Sorted List 2](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/)      | [Java](./Programming/LinkedLists/RemoveDuplicates2.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|6| [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)      | [Java](./Programming/LinkedLists/Merge2SortedLists.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|7| [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/)      | [Java](./Programming/LinkedLists/RemoveNthNodeFromEnd.java)  | _O(n)_         | _O(1)_          | Easy         |   |

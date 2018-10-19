@@ -191,3 +191,6 @@ Solutions to the InterviewBit problems in Java
 |7| [Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/)      | [Java](./Programming/LinkedLists/RemoveNthNodeFromEnd.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |8| [Rotate List](https://www.interviewbit.com/problems/rotate-list/)      | [Java](./Programming/LinkedLists/RotateList.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |9| [Reverse Lists 2](https://www.interviewbit.com/problems/reverse-link-list-ii/)      | [Java](./Programming/LinkedLists/ReverseLists2.java)  | _O(n)_         | _O(1)_          | Easy         |  Bookmarked |
+|10| [Reorder List](https://www.interviewbit.com/problems/reorder-list/)      | [Java](./Programming/LinkedLists/ReorderList.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked, Reverse Half and merge alternate |
+|11| [Swap List Nodes in pairs](https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/)      | [Java](./Programming/LinkedLists/SwapAlternate.java)  | _O(n)_         | _O(1)_          | Medium         |   |
+|12| [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)      | [Java](./Programming/LinkedLists/KReverse.java)  | _O(n)_         | _O(1)_          | Medium         |   |

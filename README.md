@@ -194,3 +194,5 @@ Solutions to the InterviewBit problems in Java
 |10| [Reorder List](https://www.interviewbit.com/problems/reorder-list/)      | [Java](./Programming/LinkedLists/ReorderList.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked, Reverse Half and merge alternate |
 |11| [Swap List Nodes in pairs](https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/)      | [Java](./Programming/LinkedLists/SwapAlternate.java)  | _O(n)_         | _O(1)_          | Medium         |   |
 |12| [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)      | [Java](./Programming/LinkedLists/KReverse.java)  | _O(n)_         | _O(1)_          | Medium         |   |
+|13| [Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)      | [Java](./Programming/LinkedLists/Add2Numbers.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|14| [List Cycle](https://www.interviewbit.com/problems/list-cycle/)      | [Java](./Programming/LinkedLists/ListCycle.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked |

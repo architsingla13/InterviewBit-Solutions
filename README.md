@@ -196,3 +196,5 @@ Solutions to the InterviewBit problems in Java
 |12| [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)      | [Java](./Programming/LinkedLists/KReverse.java)  | _O(n)_         | _O(1)_          | Medium         |   |
 |13| [Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)      | [Java](./Programming/LinkedLists/Add2Numbers.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |14| [List Cycle](https://www.interviewbit.com/problems/list-cycle/)      | [Java](./Programming/LinkedLists/ListCycle.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked |
+|15| [Partition List](https://www.interviewbit.com/problems/partition-list/)      | [Java](./Programming/LinkedLists/PartitionList.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|16| [Sort List](https://www.interviewbit.com/problems/sort-list/)      | [Java](./Programming/LinkedLists/SortList.java)  | _O(nlogn)_         | _O(1)_          | Medium         |   |

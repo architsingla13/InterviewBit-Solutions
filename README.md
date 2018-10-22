@@ -7,7 +7,7 @@ Solutions to the InterviewBit problems in Java
 * [Array](https://github.com/architsingla13/InterviewBit-Solutions#array)
 * [String](https://github.com/architsingla13/InterviewBit-Solutions#string)
 * [Linked List](https://github.com/architsingla13/InterviewBit-Solutions#linkedlist)
-* Stack
+* [Stack](https://github.com/architsingla13/InterviewBit-Solutions#stack)
 * Queue
 * Heap
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
@@ -198,3 +198,11 @@ Solutions to the InterviewBit problems in Java
 |14| [List Cycle](https://www.interviewbit.com/problems/list-cycle/)      | [Java](./Programming/LinkedLists/ListCycle.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked |
 |15| [Partition List](https://www.interviewbit.com/problems/partition-list/)      | [Java](./Programming/LinkedLists/PartitionList.java)  | _O(n)_         | _O(1)_          | Easy         |   |
 |16| [Sort List](https://www.interviewbit.com/problems/sort-list/)      | [Java](./Programming/LinkedLists/SortList.java)  | _O(nlogn)_         | _O(1)_          | Medium         |   |
+
+
+## Stack
+
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)      | [Java](./Programming/Stacks/SimplifyDirectory.java)  | _O(n)_         | _O(n)_          | Easy         |   |

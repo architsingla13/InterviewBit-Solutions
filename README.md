@@ -211,6 +211,7 @@ Solutions to the InterviewBit problems in Java
 |4| [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)      | [Java](./Programming/Stacks/EvaluateExpression.java)  | _O(n)_         | _O(n)_          | Easy         |   |
 |5| [Min Stack](https://www.interviewbit.com/problems/min-stack/)      | [Java](./Programming/Stacks/MinStack.java)  | _O(1)_         | _O(1)_          | Easy         |  Bookmarked, Doing Min in O(1) space is good one|
 |6| [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)      | [Java](./Programming/Stacks/LargestRectangleInHistogram.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked, Do read brute force and think in terms of stack|
+|7| [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)      | [Java](./Programming/Stacks/RainWaterTrapped.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked |
 
 
 

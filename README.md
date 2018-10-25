@@ -206,3 +206,6 @@ Solutions to the InterviewBit problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)      | [Java](./Programming/Stacks/SimplifyDirectory.java)  | _O(n)_         | _O(n)_          | Easy         |   |
+|2| [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)      | [Java](./Programming/Stacks/RedundantBraces.java)  | _O(n)_         | _O(n)_          | Easy         |   |
+|3| [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)      | [Java](./Programming/Stacks/NearestSmaller.java)  | _O(n)_         | _O(n)_          | Easy         |   |
+|4| [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)      | [Java](./Programming/Stacks/EvaluateExpression.java)  | _O(n)_         | _O(n)_          | Easy         |   |

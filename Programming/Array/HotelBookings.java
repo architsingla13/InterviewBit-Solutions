@@ -26,11 +26,7 @@ public class HotelBookings {
                 roomsRequired--;
             }
         }
-        if(max<=K){
-            return true;
-        }else{
-            return false;
-        }
+        return max <= K;
     }
 
 }

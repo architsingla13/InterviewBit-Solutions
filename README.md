@@ -8,7 +8,7 @@ Solutions to the InterviewBit problems in Java
 * [String](https://github.com/architsingla13/InterviewBit-Solutions#string)
 * [Linked List](https://github.com/architsingla13/InterviewBit-Solutions#linkedlist)
 * [Stack](https://github.com/architsingla13/InterviewBit-Solutions#stack)
-* Queue
+* [Queue](https://github.com/architsingla13/InterviewBit-Solutions#queue)
 * Heap
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
 * [Hash Table](https://github.com/architsingla13/InterviewBit-Solutions#hashtable)
@@ -20,7 +20,7 @@ Solutions to the InterviewBit problems in Java
 * Binary Search Tree
 * Breadth-First Search
 * Depth-First Search
-* Backtracking
+* [Backtracking](https://github.com/architsingla13/InterviewBit-Solutions#backtracking)
 * Dynamic Programming
 * Greedy
 * Graph
@@ -220,3 +220,13 @@ Solutions to the InterviewBit problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)      | [Java](./Programming/Queue/SlidingWindowW.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked, Finding Min is reverse of current logic|
+
+
+## Backtracking
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [ReverseLinkedList](https://www.interviewbit.com/problems/reverse-link-list-recursion/)      | [Java](./Programming/Backtracking/ReverseLinkedList.java)  | _O(n)_         | _O(n)_          | Easy         |  Bookmarked |
+|2| [Modular Expression](https://www.interviewbit.com/problems/modular-expression/)      | [Java](./Programming/Backtracking/ModularExpression.java)  | _O(log(power))_         | _O(1)_          | Easy         |  Bookmarked, Modular Exponentiation |
+|3| [Subset](https://www.interviewbit.com/problems/subset/)      | [Java](./Programming/Backtracking/Subset.java)  | _O(2^n)_         | _O(n)_          | Easy         |  Bookmarked, Backtracking general algo |
+|4| [Combinations](https://www.interviewbit.com/problems/combinations/)      | [Java](./Programming/Backtracking/Combinations.java)  | _O(nCk)_         | _O(n)_          | Easy         |  Bookmarked, Backtracking general algo |

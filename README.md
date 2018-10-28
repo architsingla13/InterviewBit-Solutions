@@ -12,6 +12,7 @@ Solutions to the InterviewBit problems in Java
 * Heap
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
 * [Hash Table](https://github.com/architsingla13/InterviewBit-Solutions#hashtable)
+* [Hashing](https://github.com/architsingla13/InterviewBit-Solutions#hashing)
 * [Math](https://github.com/architsingla13/InterviewBit-Solutions#math)
 * [Two Pointers](https://github.com/architsingla13/InterviewBit-Solutions#twopointers)
 * Sort
@@ -222,6 +223,7 @@ Solutions to the InterviewBit problems in Java
 |1| [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)      | [Java](./Programming/Queue/SlidingWindowW.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked, Finding Min is reverse of current logic|
 
 
+
 ## Backtracking
 
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
@@ -239,3 +241,14 @@ Solutions to the InterviewBit problems in Java
 |11| [Permutations](https://www.interviewbit.com/problems/permutations/)      | [Java](./Programming/Backtracking/Permutations.java)  | _O(n!)_         | _O(n)_          | Medium         | Bookmarked, Either use visited array or remove integer from input array then add back while backtracking  |
 |12| [Gray Code](https://www.interviewbit.com/problems/gray-code/)      | [Java](./Programming/Backtracking/GrayCode.java)  | _O(2^n)_         | _O(n)_          | Medium         | Bookmarked, Other Solution of using reverse of (N-1) and prefixing 1 is good  |
 |13| [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)      | [Java](./Programming/Backtracking/KthPermutation.java)  | _O(nk)_         | _O(n)_          | Medium         | Bookmarked, Use Maths plus recursion, first digit = k/(n-1)!+1  |
+
+
+
+## Hashing
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)      | [Java](./Programming/Hashing/ColorfulNumber.java)  | _O(n*n)_         | _O(n)_          | Easy         |   |
+|2| [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)      | [Java](./Programming/Hashing/LargestContZero.java)  | _O(n)_         | _O(n)_          | Easy         |  Bookmarked, 3 conditions - element 0, sum 0 or sum repeated |
+|3| [2 Sum](https://www.interviewbit.com/problems/2-sum/)      | [Java](./Programming/Hashing/TwoSum.java)  | _O(n)_         | _O(1)_          | Easy         |   |
+|4| [4 Sum](https://www.interviewbit.com/problems/4-sum/)      | [Java](./Programming/Hashing/FourSum.java)  | _O(n*n+nlogn)_         | _O(n)_          | Medium         |  Bookmarked, Either use n^3 solution using 2 pointers and hashSet for unique sets or or use customised sorting plus hashSet |

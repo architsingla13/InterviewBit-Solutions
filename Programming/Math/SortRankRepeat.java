@@ -60,7 +60,6 @@ public class SortRankRepeat {
             invFacts[i] = modInv(facts[i], MOD-2);
         }
 
-
         long rank = 0;
 
         for(int i=0;i<len;i++){

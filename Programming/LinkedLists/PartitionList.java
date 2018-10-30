@@ -1,9 +1,5 @@
 package LinkedLists;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 /**
  * Author - archit.s
  * Date - 20/10/18

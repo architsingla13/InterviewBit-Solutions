@@ -9,7 +9,7 @@ Solutions to the InterviewBit problems in Java
 * [Linked List](https://github.com/architsingla13/InterviewBit-Solutions#linkedlist)
 * [Stack](https://github.com/architsingla13/InterviewBit-Solutions#stack)
 * [Queue](https://github.com/architsingla13/InterviewBit-Solutions#queue)
-* Heap
+* [Heap](https://github.com/architsingla13/InterviewBit-Solutions#heaps)
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
 * [Hash Table](https://github.com/architsingla13/InterviewBit-Solutions#hashtable)
 * [Hashing](https://github.com/architsingla13/InterviewBit-Solutions#hashing)
@@ -262,3 +262,13 @@ Solutions to the InterviewBit problems in Java
 |12| [Fraction](https://www.interviewbit.com/problems/fraction/)      | [Java](./Programming/Hashing/Fraction.java)  | _O(n)_        | _O(n)_          | Medium         | Bookmarked   |
 |13| [Points on the Straight Line](https://www.interviewbit.com/problems/points-on-the-straight-line/)      | [Java](./Programming/Hashing/MaxPointsOnStraightLine.java)  | _O(n*n)_        | _O(n)_          | Medium         | Bookmarked, Slope should be same, Consider first point as start and rest as end and create map and repeat; Keep edge cases like which slopes are valid and others keep in diff variables   |
 |14| [Substring Concatenation](https://www.interviewbit.com/problems/substring-concatenation/)      | [Java](./Programming/Hashing/SubstringConcatenation.java)  | _O(n*n)_        | _O(n)_          | Medium         | Bookmarked, Brute force but just using hashmap for string match   |
+
+
+
+## Heaps
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)      | [Java](./Programming/Heaps/NMaxCombinations.java)  | _O(nlogn)_         | _O(n)_          | Medium         |  Bookmarked, Create a min heap and loop through n^2 pairs  |
+|2| [Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)      | [Java](./Programming/Heaps/MagiciansAndChocolates.java)  | _O(klogn)_         | _O(n)_          | Easy         |    |
+|3| [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)      | [Java](./Programming/Heaps/MergeKSortedLists.java)  | _O(Nlogk)_, where k = initial lists and N = total sum of nodes from all lists         | _O(k)_          | Medium         |    |

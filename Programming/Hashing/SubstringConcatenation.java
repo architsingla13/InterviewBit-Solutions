@@ -54,6 +54,8 @@ public class SubstringConcatenation {
             }
 
             start++;
+
+
         }
 
         return r;

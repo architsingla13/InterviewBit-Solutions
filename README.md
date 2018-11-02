@@ -11,7 +11,7 @@ Solutions to the InterviewBit problems in Java
 * [Queue](https://github.com/architsingla13/InterviewBit-Solutions#queue)
 * [Heap](https://github.com/architsingla13/InterviewBit-Solutions#heaps)
 * [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
-* [Hash Table](https://github.com/architsingla13/InterviewBit-Solutions#hashtable)
+* [Hash Map](https://github.com/architsingla13/InterviewBit-Solutions#hashmap)
 * [Hashing](https://github.com/architsingla13/InterviewBit-Solutions#hashing)
 * [Math](https://github.com/architsingla13/InterviewBit-Solutions#math)
 * [Two Pointers](https://github.com/architsingla13/InterviewBit-Solutions#twopointers)
@@ -272,3 +272,12 @@ Solutions to the InterviewBit problems in Java
 |1| [N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)      | [Java](./Programming/Heaps/NMaxCombinations.java)  | _O(nlogn)_         | _O(n)_          | Medium         |  Bookmarked, Create a min heap and loop through n^2 pairs  |
 |2| [Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)      | [Java](./Programming/Heaps/MagiciansAndChocolates.java)  | _O(klogn)_         | _O(n)_          | Easy         |    |
 |3| [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)      | [Java](./Programming/Heaps/MergeKSortedLists.java)  | _O(Nlogk)_, where k = initial lists and N = total sum of nodes from all lists         | _O(k)_          | Medium         |    |
+
+
+
+## HashMap
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)      | [Java](./Programming/HashMaps/DistinctNumbersOfWindow.java)  | _O(n)_         | _O(n)_          | Easy         |    |
+|2| [LRU](https://www.interviewbit.com/problems/lru-cache/)      | [Java](./Programming/HashMaps/LRU.java)  | _O(1)_ for get and O(n) for set         | _O(n)_          | Easy         |    |

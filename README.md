@@ -10,7 +10,7 @@ Solutions to the InterviewBit problems in Java
 * [Stack](https://github.com/architsingla13/InterviewBit-Solutions#stack)
 * [Queue](https://github.com/architsingla13/InterviewBit-Solutions#queue)
 * [Heap](https://github.com/architsingla13/InterviewBit-Solutions#heaps)
-* [Tree](https://github.com/architsingla13/InterviewBit-Solutions#tree)
+* [Trees](https://github.com/architsingla13/InterviewBit-Solutions#trees)
 * [Hash Map](https://github.com/architsingla13/InterviewBit-Solutions#hashmap)
 * [Hashing](https://github.com/architsingla13/InterviewBit-Solutions#hashing)
 * [Math](https://github.com/architsingla13/InterviewBit-Solutions#math)
@@ -281,3 +281,12 @@ Solutions to the InterviewBit problems in Java
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)      | [Java](./Programming/HashMaps/DistinctNumbersOfWindow.java)  | _O(n)_         | _O(n)_          | Easy         |    |
 |2| [LRU](https://www.interviewbit.com/problems/lru-cache/)      | [Java](./Programming/HashMaps/LRU.java)  | _O(1)_ for get and O(n) for set         | _O(n)_          | Easy         |    |
+|3| [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)      | [Java](./Programming/HashMaps/MaxHeaps.java)  | _O(log2n^2)_          | _O(log2n)_          | Hard         |  Bookmarked, T(n) = n-1Cl*T(l)*T(r), where r = n-1-l  |
+
+
+
+## Trees
+
+|  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+|1| [Valid Binary Search Tree](https://www.interviewbit.com/problems/valid-binary-search-tree/)      | [Java](./Programming/Trees/ValidBST.java)  | _O(n)_         | _O(log2n)_          | Easy         |    |

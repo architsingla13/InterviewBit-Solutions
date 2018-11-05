@@ -290,3 +290,15 @@ Solutions to the InterviewBit problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [Valid Binary Search Tree](https://www.interviewbit.com/problems/valid-binary-search-tree/)      | [Java](./Programming/Trees/ValidBST.java)  | _O(n)_         | _O(log2n)_          | Easy         |    |
+|2| [Next Greater Number BST](https://www.interviewbit.com/problems/next-greater-number-bst/)      | [Java](./Programming/Trees/InorderSucc.java)  | _O(logn)_         | _O(1)_          | Easy         |  Bookmarked, Good Question plus also know inorder using 1 stack  |
+|3| [Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)      | [Java](./Programming/Trees/MaxDepth.java)  | _O(n)_         | _O(n)_          | Easy         |    |
+|4| [Vertical Order traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)      | [Java](./Programming/Trees/VerticalOrder.java)  | _O(n)_         | _O(n)_          | Easy         |    |
+|5| [Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/)      | [Java](./Programming/Trees/InorderTraversal.java)  | _O(n)_         | _O(n)_          | Easy         |  Bookmarked  |
+|6| [PreOrder Traversal](https://www.interviewbit.com/problems/preorder-traversal/)      | [Java](./Programming/Trees/PreOrderTraversal.java)  | _O(n)_         | _O(n)_          | Easy         |  Bookmarked  |
+|6| [PreOrder Traversal](https://www.interviewbit.com/problems/preorder-traversal/)      | [Java](./Programming/Trees/PreOrderTraversal.java)  | _O(n)_         | _O(n)_          | Easy         |  Bookmarked  |
+|7| [PostOrder Traversal](https://www.interviewbit.com/problems/postorder-traversal/)      | [Java](./Programming/Trees/PostOrder.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked, Using 2 stacks is easy  |
+|8| [Hotel Reviews](https://www.interviewbit.com/problems/hotel-reviews/)      | [Java](./Programming/Trees/HotelReviews.java)  | _O(Sum of all input strings length)_         | _O(n)_          | Medium         |  Bookmarked, Use tries or Hashset   |
+|9| [Balanced Binary Tree](https://www.interviewbit.com/problems/balanced-binary-tree/)      | [Java](./Programming/Trees/BalancedTree.java)  | _O(n)_         | _O(n)_          | Easy         |     |
+|10| [Identical Binary Trees](https://www.interviewbit.com/problems/identical-binary-trees/)      | [Java](./Programming/Trees/IdenticalTree.java)  | _O(n)_         | _O(n)_          | Easy         |     |
+|11| [Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)      | [Java](./Programming/Trees/SymmetricTree.java)  | _O(n)_         | _O(n)_          | Easy         |     |
+|12| [Inorder Traversal of Cartesian Tree](https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/)      | [Java](./Programming/Trees/InorderCartesian.java)  | _O(n)_         | _O(n)_          | Easy         |     |

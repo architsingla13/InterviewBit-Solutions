@@ -5,18 +5,18 @@ package Trees;
  * Date - 04/11/18
  * Time - 4:16 PM
  */
-public class ValidBST {
-
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) {
-            val = x;
-            left=null;
-            right=null;
-        }
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int x) {
+        val = x;
+        left=null;
+        right=null;
     }
+}
+
+public class ValidBST {
 
     public boolean helper(TreeNode root, int MIN, int MAX){
 

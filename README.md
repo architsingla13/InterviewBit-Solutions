@@ -241,6 +241,7 @@ Solutions to the InterviewBit problems in Java
 |11| [Permutations](https://www.interviewbit.com/problems/permutations/)      | [Java](./Programming/Backtracking/Permutations.java)  | _O(n!)_         | _O(n)_          | Medium         | Bookmarked, Either use visited array or remove integer from input array then add back while backtracking  |
 |12| [Gray Code](https://www.interviewbit.com/problems/gray-code/)      | [Java](./Programming/Backtracking/GrayCode.java)  | _O(2^n)_         | _O(n)_          | Medium         | Bookmarked, Other Solution of using reverse of (N-1) and prefixing 1 is good  |
 |13| [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)      | [Java](./Programming/Backtracking/KthPermutation.java)  | _O(nk)_         | _O(n)_          | Medium         | Bookmarked, Use Maths plus recursion, first digit = k/(n-1)!+1  |
+|14| [NQueens](https://www.interviewbit.com/problems/nqueens/)      | [Java](./Programming/Backtracking/NQueens.java)  | _O(n*n)_         | _O(n)_          | Medium         | Bookmarked  |
 
 
 
@@ -318,3 +319,5 @@ Solutions to the InterviewBit problems in Java
 |26| [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)      | [Java](./Programming/Trees/PopulateNextRight.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked, If Space was not constant then using queue is very easy |
 |27| [Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)      | [Java](./Programming/Trees/LeastCommonAncestor.java)  | _O(n)_         | _O(n)_          | Medium         |  Bookmarked |
 |28| [Shortest Unique Prefix](https://www.interviewbit.com/problems/shortest-unique-prefix/)      | [Java](./Programming/Trees/ShortestUniquePrefix.java)  | _O(n*m)_         | _O(total unique characters)_          | Medium         |  Bookmarked, either use count of unique flag at each node, update the child's property and not current node |
+|29| [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)      | [Java](./Programming/Trees/FlattenBinaryTree.java)  | _O(n)_         | _O(1)_          | Medium         |  Bookmarked, Can be solved using stack or recursion |
+|30| [Order of People Heights](https://www.interviewbit.com/problems/order-of-people-heights/)      | [Java](./Programming/Trees/OrderOfPeoplesHeight.java)  | _O(nlogn)_         | _O(n)_          | Medium         |  Bookmarked, Solve it like a puzzle, good question |

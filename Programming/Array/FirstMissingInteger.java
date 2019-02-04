@@ -12,37 +12,22 @@ public class FirstMissingInteger {
 
     private int firstMissingPositive(ArrayList<Integer> A) {
 
-        for(int i=0;i<A.size();i++){
-            int val = A.get(i);
-            int nextVal;
-
-            if(val <=0 || val > A.size()){
-                continue;
-            }
-
-            while(A.get(val-1) != val){
-                nextVal = A.get(val-1);
-                A.set(val-1, val);
-                val = nextVal;
-                if(nextVal <=0 || nextVal > A.size()){
-                    break;
-                }
+        for (int i = 0; i < A.size(); i++) {
+            int num = A.get(i);
+            int pos = num - 1;
+            
+            if (pos >= 0 && pos < A.size() && A.get(pos) != num) {
+                A.set(i, A.get(pos));
+                A.set(pos, num);
+                i--;
             }
         }
-
-        int r = -1;
-        for(int i=0;i<A.size();i++){
-            if(A.get(i) != i+1 ){
-                r = i+1;
-                break;
-            }
-        }
-
-        if(r == -1){
-            r = A.size()+1;
-        }
-
-        return r;
+        
+        for (int i = 0; i < A.size(); i++)
+            if (A.get(i) != i + 1)
+                return i + 1;
+        
+        return A.size() + 1;
     }
 
     public static void main(String[] args) {
